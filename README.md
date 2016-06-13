@@ -2,6 +2,9 @@
 
 Each Module should have it's own folder.
 
+###Agency Exports and Folder Structure###
+Agency exports should be built inside the Module folder it was created in.  The folder should be named as the full agency name and not the serv prov code for better searchibility. The main export that should be in these folders should be the record types for that agency for that module.  You can export all record types for that module or organize by having single exports for each record type.  Each folder should also have a README.md file which describes the records included.
+
 ###Standard Base contains the following areas:###
 1.	Standard Choices – the standard choices import includes 300+ already created SCs, including descriptions and pre-populated best practice data.  These are built with the most commonly turned on features and setup. There is also an ad hoc report build that will take the metadata of the standard choice descriptions and align them by subject, so you can see what belongs to inspections or workflow for example.  This is done by tagging inside the description.
 2.	Form Portlet Designs – this import includes designed forms, following best practice design, for over 700 forms and lists.  Each one includes the proper naming conventions, alignment and spacing.  
