@@ -8,7 +8,7 @@ Agency exports should be built inside the Module folder it was created in.  The 
 ###Standard Base###
 The standard base is the initial configuration that should be set up from day one of every project.  It includes the following areas:
 1.	Standard Choices – the standard choices import includes 300+ already created SCs, including descriptions and pre-populated best practice data.  These are built with the most commonly turned on features and setup. There is also an ad hoc report build that will take the metadata of the standard choice descriptions and align them by subject, so you can see what belongs to inspections or workflow for example.  This is done by tagging inside the description.
-2.	Form Portlet Designs – this import includes designed forms, following best practice design, for over 700 forms and lists.  Each one includes the proper naming conventions, alignment and spacing.  
+2.	Form Portlet Designs – this import includes designed forms, following best practice design, for over 700 forms and lists.  Each one includes the proper naming conventions, alignment and spacing.
 3.	ACA General Form Design – this import cleans up the forms for the general areas of ACA.  This is mainly around registration and contacts.
 4.	Agency Menu structure – this import is a standard menu structure so the agency has a starting template.
 5.	Standard Consoles – consoles have been created as starting points for standard roles such as admin, staff, asset management and inspectors. Each one is designed to give the user a properly built console instead of starting from scratch. Note, you must add security permissions to these once you create your user groups.
