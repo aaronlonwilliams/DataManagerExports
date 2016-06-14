@@ -1,6 +1,8 @@
 # DataManagerExports
+This repository is for storing data manager exports including Module Level BPTs and Agency level record types.  It is also home to the standard base, used for Accelarate implementations and developed as part of project DRIVE.
 
-Each Module should have it's own folder.
+##Organization##
+Each Module should have it's own folder inside the root DataManagerExports folder.  
 
 ###Agency Exports and Folder Structure###
 Agency exports should be built inside the Module folder it was created in.  The folder should be named as the full agency name and not the serv prov code for better searchibility. The main export that should be in these folders should be the record types for that agency for that module.  You can export all record types for that module or organize by having single exports for each record type.  Each folder should also have a README.md file which describes the records included.
