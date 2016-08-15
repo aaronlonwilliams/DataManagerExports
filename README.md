@@ -1,6 +1,9 @@
 # DataManagerExports
 This repository is for storing data manager exports including Module Level BPTs and Agency level record types.  It is also home to the standard base, used for Accelarate implementations and developed as part of project DRIVE.
 
+##IMPORTANT NOTE##
+It is very important that the UserModel.xml and UserProfileModel.xml are not included in the import files.  These can cause issues with the admin user for initial login.
+
 ##Organization##
 Each Module should have it's own folder inside the root DataManagerExports folder.  
 
