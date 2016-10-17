@@ -30,3 +30,5 @@ The standard base is the initial configuration that should be set up from day on
 8.	Events – all events that have a standard master script are now set up with this import file.  These are the most often used scripts and events.
 
 9.	AD HOC REPORTS – All BPT ad hoc reports that can be used as examples and starting points.
+
+10.	SERVER CONSTANTS – All recommended server constants.
