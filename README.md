@@ -27,7 +27,7 @@ The standard base is the initial configuration that should be set up from day on
 
 7.	Notification Templates – the most often used notification templates have been built and given naming properties so they can be easily found.  Now you have starting content with these notificiations.
 
-8.	Events – all events that have a standard master script are now set up with this import file.  These are the most often used scripts and events.
+8.	Events – all events that have a standard master script are now set up with this import file.  These are the most often used scripts and events. *removed*
 
 9.	AD HOC REPORTS – All BPT ad hoc reports that can be used as examples and starting points.
 
